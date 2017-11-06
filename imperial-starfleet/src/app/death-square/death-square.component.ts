@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { TurretComponent } from '../turret/turret.component';
-import { LaserCannonComponent } from '../laser-cannon/laser-cannon.component';
+import { TurretComponent } from '../internal-defenses/turret/turret.component';
+import { LaserCannonComponent } from '../internal-defenses/laser-cannon/laser-cannon.component';
 
 
 @Component({
